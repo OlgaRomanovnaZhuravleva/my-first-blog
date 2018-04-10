@@ -1,0 +1,5 @@
+h1 a {font-family: Verdana, Arial, Helvetica, sans-serif;
+       font-size: 110%; color: green; font-weight: bold; }
+	   
+.date {font-size: 85%; color: navy; background: transparent;
+       font-weight: bold; border-bottom: dashed 2px yellow; }
